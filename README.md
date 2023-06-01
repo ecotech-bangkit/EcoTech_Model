@@ -1,2 +1,2 @@
 # EcoTech_Model
-Dataset, notebook, Dataset. and model
+Dataset : https://www.kaggle.com/datasets/rantimaulidaningsih/ecotechec-waste, notebook, and model.
